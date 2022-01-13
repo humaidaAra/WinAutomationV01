@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinAutomationV01/1.0.0": {
+        "runtime": {
+          "WinAutomationV01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinAutomationV01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
